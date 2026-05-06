@@ -6,71 +6,86 @@
 
 ## Pedido original
 
-El usuario compartio el link:
+El usuario compartio:
 
 https://crissferrotech.substack.com/
 
-Y pidio crear ideas para armar podcasts en Spotify sobre ese tema, usando el Substack como base.
+Y pidio crear ideas para armar podcasts en Spotify sobre ese sitio.
 
-## Primera respuesta de trabajo
+## Primer enfoque descartado
 
-Se propuso tratar el podcast como una extension del Substack, no como una simple lectura de articulos.
+Inicialmente se planteo un podcast mas amplio sobre IA, tecnologia, automatizacion y futuro del trabajo.
 
-Concepto recomendado:
+Ese enfoque fue corregido por el usuario.
 
-- Nombre principal: `Criss Ferro Tech Podcast`
-- Alternativas:
-  - `Tech sin Humo`
-  - `Criss Ferro: IA, Negocios y Tecnologia`
-  - `Codigo, IA y Futuro`
-  - `La Bitacora Tech de Criss Ferro`
+## Correccion del usuario
 
-Formato recomendado:
+El usuario aclaro que el podcast debe partir del posicionamiento real del sitio:
 
-- Duracion: 8 a 15 minutos.
-- Frecuencia: 1 episodio semanal.
-- Estilo: directo, educativo, con opinion personal.
-- Publico: emprendedores, profesionales, creadores, freelancers y gente que quiere entender tecnologia sin tecnicismos innecesarios.
+> Te ayudo a sacarle el jugo a la tecnologia desde Argentina. Home Assistant, domotica, tecnologia - todo explicado claro, practico y sin rodeos. Contenido tecnico para gente curiosa.
 
-## Estructura sugerida para cada episodio
+Tambien aclaro:
 
-1. Hook inicial, 20-30 segundos.
-2. Contexto, 2 minutos.
-3. Idea central, 5-8 minutos.
-4. Aplicacion practica, 2-3 minutos.
-5. Cierre, 30 segundos.
+- Se puede hablar de otras tecnologias mas adelante.
+- Este podcast, en principio, debe dar contexto a los posts de `https://crissferrotech.substack.com/`.
+- El sitio tiene pocos temas iniciales y esos deben ser la base.
+- El logo del sitio fue agregado a la carpeta del proyecto como `logo.jpg`.
 
-## Primeras ideas de episodios
+## Fuente consultada
 
-1. Por que todos hablan de IA y pocos la usan bien.
-2. Automatizar no es reemplazar: como usar tecnologia sin perder humanidad.
-3. Herramientas de IA que realmente sirven para trabajar mejor.
-4. El futuro del trabajo para freelancers, devs y emprendedores.
-5. Como crear contenido tech sin sonar como un manual.
-6. Errores comunes al implementar IA en un negocio chico.
-7. Que deberia aprender alguien que quiere entrar al mundo tech.
-8. La diferencia entre saber usar herramientas y pensar tecnologicamente.
+Se consulto el archivo publico de Substack:
 
-## Configuracion investigada
+`https://crissferrotech.substack.com/api/v1/archive?sort=new&search=&offset=0&limit=20`
 
-Substack permite sincronizar podcasts con Spotify desde la configuracion del podcast. La documentacion consultada indica que se puede usar la seccion `Spotify` dentro de `Distribute your podcast` para usar `Sync to Spotify`.
+Posts detectados:
 
-Spotify for Creators genera un RSS despues de publicar el primer episodio. Si se usa otro host, se debe obtener el RSS desde ese host.
+1. `DIY en serio: ESP32, WLED y cuando tu casa empieza a pensar sola`
+2. `Automatizaciones en Home Assistant: frustraciones, Node-RED y el momento PS4 que lo cambio todo`
+3. `La mini PC que cambio todo: Home Assistant instalado de verdad`
+4. `El dia que descubri que estaba haciendo todo mal`
+5. `Control remoto inteligente: como sume el aire acondicionado al sistema`
+6. `Tiras LED, modo cine y mi primera automatizacion que me volo la cabeza`
+7. `Lamparitas WiFi, interruptores o enchufes inteligentes: cual conviene y cuando`
+8. `Todo empezo porque mi hijo le tenia miedo a la oscuridad`
 
-Para newsletters de Substack, el RSS suele estar disponible agregando `/feed` al dominio:
+## Nuevo enfoque definido
 
-https://crissferrotech.substack.com/feed
+El podcast debe funcionar como una extension sonora de crissferro.tech.
 
-## Fuentes consultadas
+Tema inicial:
 
-- Substack Help: https://support.substack.com/hc/en-us/articles/24766453298324-How-can-I-distribute-my-paid-Substack-podcast-on-Spotify
-- Spotify Help: https://support.spotify.com/bd-en/creators/article/finding-and-enabling-your-rss-feed/
-- Feedly Docs: https://docs.feedly.com/article/645-how-to-find-substack-rss-feeds
+- Home Assistant.
+- Domotica.
+- Automatizacion del hogar.
+- Tecnologia aplicada desde Argentina.
+- Casos reales.
+- Errores y aprendizajes.
+- Contenido tecnico explicado claro.
 
-## Pedido actual
+## Orden narrativo sugerido
 
-El usuario pidio empezar a armar dentro de `C:\proyectos\spotify` todo lo necesario para preparar el post/podcast, guardar todo en esta carpeta e incluir el texto como historial para no tener que repetir contexto.
+Para el podcast conviene ordenar la temporada desde el primer problema real hacia los temas mas avanzados:
 
-## Nota operativa
+1. Todo empezo porque mi hijo le tenia miedo a la oscuridad.
+2. Lamparitas WiFi, interruptores o enchufes inteligentes.
+3. Tiras LED, modo cine y primera automatizacion.
+4. Control remoto inteligente y aire acondicionado.
+5. El dia que descubri que estaba haciendo todo mal.
+6. La mini PC que cambio todo.
+7. Automatizaciones, Node-RED y PS4.
+8. ESP32, WLED y DIY en serio.
 
-La carpeta estaba vacia al iniciar esta estructura y no era un repositorio Git.
+## Archivos actualizados
+
+- `README.md`
+- `estrategia-podcast.md`
+- `calendario-editorial.md`
+- `configuracion-spotify.md`
+- `borradores/trailer.md`
+- `borradores/episodio-001.md`
+- `assets/brief-portada.md`
+- `fuentes/substack-archivo.md`
+
+## Pendiente
+
+Extraer o recibir el contenido completo de cada post para transformar los guiones de borrador en versiones finales grabables.

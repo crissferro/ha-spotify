@@ -1,21 +1,31 @@
-# Trailer: Criss Ferro Tech Podcast
+# Trailer: crissferro.tech Podcast
 
 ## Duracion objetivo
 
 60 a 90 segundos.
 
+## Titulo para Spotify
+
+`Trailer: domotica sin rodeos desde Argentina`
+
+## Descripcion para Spotify
+
+Presentacion de crissferro.tech Podcast: Home Assistant, domotica y tecnologia explicados claro, practico y sin rodeos desde Argentina.
+
 ## Guion
 
-Bienvenidos a Criss Ferro Tech Podcast.
+Bienvenidos a crissferro.tech Podcast.
 
-Este es un espacio para hablar de tecnologia, inteligencia artificial, automatizacion y trabajo digital de una forma clara, practica y sin humo.
+Este espacio nace del Substack crissferro.tech, donde hablo de Home Assistant, domotica y tecnologia aplicada desde Argentina, con una idea simple: explicar claro, practico y sin rodeos.
 
-La idea no es perseguir cada herramienta nueva ni repetir titulares. La idea es entender que esta cambiando, por que importa y como podemos usarlo mejor en el trabajo, en un negocio, en un proyecto o en la vida profesional.
+La primera temporada arranca desde una historia real. No desde una casa futurista perfecta, ni desde una lista infinita de dispositivos. Arranca con un problema cotidiano: una luz, una rutina, una necesidad familiar, y la pregunta que aparece despues: como puedo resolver esto mejor con tecnologia?
 
-En cada episodio vamos a tomar una idea concreta y bajarla a tierra: que problema resuelve, que riesgos tiene, como se aplica y que podemos probar esta semana.
+Vamos a hablar de lamparitas WiFi, interruptores, enchufes inteligentes, tiras LED, modo cine, aire acondicionado con control remoto inteligente, Home Assistant, mini PC, Node-RED, ESP32, WLED y automatizaciones reales.
 
-Si ya lees Criss Ferro Tech en Substack, este podcast es una forma de acompanar esos temas con mas contexto y conversacion. Y si llegas desde Spotify, podes encontrar los textos completos en el Substack.
+Tambien vamos a hablar de lo que cuesta, de lo que falla, de lo que no te cuentan los tutoriales y de como cambia todo cuando empezas a ordenar tu casa inteligente alrededor de Home Assistant.
 
-Tecnologia sin vueltas. IA con criterio. Herramientas para trabajar mejor.
+Si te da curiosidad la domotica, si queres empezar sin comprar cualquier cosa, o si ya tenes varios dispositivos dando vueltas y queres entender como unirlos mejor, este podcast es para vos.
 
-Esto es Criss Ferro Tech Podcast.
+Tecnologia desde Argentina, para gente curiosa.
+
+Esto es crissferro.tech Podcast.

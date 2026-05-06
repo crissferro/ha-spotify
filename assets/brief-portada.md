@@ -1,38 +1,53 @@
 # Brief Para Portada Del Podcast
 
+## Logo disponible
+
+Archivo local:
+
+`logo.jpg`
+
+El logo muestra la marca `CF tech` sobre fondo oscuro, con isotipo en degradado celeste, azul y violeta.
+
 ## Objetivo visual
 
-Crear una portada clara, moderna y reconocible para `Criss Ferro Tech Podcast`.
+Crear una portada de podcast que mantenga la identidad del Substack y sea legible en Spotify.
 
 ## Requisitos tecnicos generales
 
 - Formato cuadrado.
 - Recomendado: 3000 x 3000 px.
-- Texto legible en tamano pequeno.
+- Texto legible en miniatura.
 - Alto contraste.
-- Sin exceso de elementos.
+- Usar el logo como elemento principal.
+- Evitar exceso de elementos tecnicos alrededor.
 
 ## Direccion creativa
 
 Estilo:
 
-- Moderno.
 - Tecnologico.
-- Profesional.
 - Limpio.
-- Sin estetica demasiado futurista generica.
+- Oscuro.
+- Moderno.
+- Practico, no futurista generico.
 
-Elementos posibles:
+Elementos recomendados:
 
-- Nombre: `Criss Ferro Tech`.
-- Subtitulo opcional: `Podcast`.
-- Elementos abstractos de tecnologia, audio o interfaces.
-- Paleta con contraste: negro/blanco/gris con acento verde Spotify o azul electrico.
+- Logo `CF tech`.
+- Texto: `crissferro.tech`.
+- Texto secundario: `Podcast`.
+- Acentos sutiles vinculados a domotica: ondas, nodos, casa conectada, lineas de circuito o UI minima.
 
-## Prompt posible para generar imagen
+Paleta:
 
-Portada cuadrada para podcast de tecnologia en espanol llamado "Criss Ferro Tech Podcast". Estilo moderno, profesional, minimalista, con referencias sutiles a inteligencia artificial, audio digital y automatizacion. Fondo oscuro limpio, detalles luminosos en verde y azul, tipografia grande y legible, composicion centrada, sin personajes, sin exceso de iconos, alta calidad, formato 3000x3000.
+- Fondo oscuro similar al logo.
+- Celeste, azul y violeta como acentos principales.
+- Naranja Substack `#FF6719` solo como acento secundario si hace falta conectar con la web.
 
-## Version alternativa
+## Version recomendada
 
-Portada cuadrada para podcast llamado "Tech sin Humo". Diseno editorial moderno, fondo claro, tipografia fuerte, elementos sutiles de ondas de audio y circuitos, estilo premium, limpio, profesional, muy legible en miniatura.
+Logo centrado arriba o al centro, texto `crissferro.tech Podcast` debajo, fondo oscuro limpio y pequenas lineas de conexion muy sutiles.
+
+## Prompt posible para generar una portada complementaria
+
+Portada cuadrada para podcast llamado "crissferro.tech Podcast", sobre Home Assistant, domotica y tecnologia desde Argentina. Usar como referencia un logo CF tech con fondo oscuro y degradado celeste azul violeta. Estilo moderno, limpio, tecnologico, profesional, con detalles sutiles de casa inteligente, nodos conectados y ondas de audio. Texto grande y legible, alto contraste, sin personajes, sin exceso de iconos, formato 3000x3000.

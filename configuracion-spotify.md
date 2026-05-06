@@ -4,7 +4,7 @@
 
 Usar Substack como base del podcast y sincronizar con Spotify.
 
-Motivo: ya existe el Substack y el podcast puede funcionar como una extension natural del contenido escrito.
+Motivo: el podcast nace como extension de los posts de crissferro.tech. Conviene que cada episodio tenga su post asociado y que Spotify funcione como canal de escucha.
 
 ## Opcion A: Substack + Spotify
 
@@ -12,7 +12,7 @@ Motivo: ya existe el Substack y el podcast puede funcionar como una extension na
 2. Ir a la configuracion del podcast.
 3. Buscar la seccion `Distribute your podcast`.
 4. Abrir la seccion `Spotify`.
-5. Usar `Sync to Spotify` si no existe todavia un podcast listado.
+5. Usar `Sync to Spotify` si todavia no existe un podcast listado.
 6. Publicar al menos un episodio, porque Spotify solo muestra el podcast cuando hay al menos un episodio cargado.
 7. Revisar el link de Spotify en las paginas del podcast y episodios dentro de Substack.
 
@@ -43,30 +43,40 @@ Fuente general sobre feeds de Substack:
 
 https://docs.feedly.com/article/645-how-to-find-substack-rss-feeds
 
+## Datos recomendados para Spotify
+
+Nombre:
+
+`crissferro.tech Podcast`
+
+Descripcion corta:
+
+Home Assistant, domotica y tecnologia explicados claro, practico y sin rodeos desde Argentina. Casos reales para gente curiosa.
+
+Categoria:
+
+`Technology`
+
+Idioma:
+
+Espanol.
+
+Arte:
+
+Usar `logo.jpg` como base y generar una portada cuadrada optimizada para Spotify.
+
 ## Cuidado importante
 
-Si se sincroniza desde Substack a Spotify, no conviene ademas enviar manualmente el RSS a Spotify for Creators, porque se puede crear un duplicado del show.
-
-## Datos que hay que definir
-
-- Nombre definitivo del podcast.
-- Descripcion corta.
-- Descripcion larga.
-- Categoria principal.
-- Arte de portada.
-- Email publico o email de gestion.
-- Trailer.
-- Primer episodio.
+Si se sincroniza desde Substack a Spotify, no enviar manualmente el RSS a Spotify for Creators, porque puede crearse un duplicado del show.
 
 ## Checklist de lanzamiento
 
-- [ ] Elegir nombre final.
-- [ ] Crear arte de portada.
-- [ ] Escribir descripcion final.
-- [ ] Grabar trailer.
-- [ ] Grabar episodio 1.
-- [ ] Subir episodio a Substack o Spotify.
-- [ ] Sincronizar con Spotify.
-- [ ] Revisar que el podcast aparezca correctamente.
+- [ ] Definir nombre final.
+- [ ] Crear portada cuadrada usando `logo.jpg`.
+- [ ] Cargar trailer.
+- [ ] Cargar episodio 1.
+- [ ] Asociar episodio 1 al post base.
+- [ ] Sincronizar con Spotify desde Substack.
+- [ ] Verificar que Spotify muestre nombre, descripcion y portada correctos.
 - [ ] Publicar post de lanzamiento en Substack.
-- [ ] Compartir en LinkedIn, X, Instagram o newsletter.
+- [ ] Compartir el episodio junto con el link al post original.

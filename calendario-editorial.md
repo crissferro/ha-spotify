@@ -1,18 +1,22 @@
 # Calendario Editorial Inicial
 
-## Temporada 1
+## Fuente
 
-Objetivo: presentar el enfoque de Criss Ferro Tech y construir una biblioteca inicial de episodios practicos.
+Temporada basada en los posts publicos detectados en `https://crissferrotech.substack.com/` al 2026-05-06.
+
+## Orden recomendado
+
+Aunque el archivo del Substack muestra posts nuevos primero, para el podcast conviene ordenar la temporada como una historia de aprendizaje: problema inicial, primeras compras, primera automatizacion, errores, instalacion seria, automatizaciones avanzadas y DIY.
 
 ## Episodio 0: Trailer
 
 Titulo:
 
-`Criss Ferro Tech Podcast: tecnologia sin humo`
+`crissferro.tech Podcast: domotica sin rodeos desde Argentina`
 
 Objetivo:
 
-Presentar el podcast, el tono y la promesa editorial.
+Presentar el podcast, explicar que nace del Substack y anticipar la primera temporada.
 
 Duracion:
 
@@ -20,91 +24,128 @@ Duracion:
 
 ## Episodio 1
 
-Titulo:
+Post base:
 
-`Por que todos hablan de IA y pocos la usan bien`
+`Todo empezo porque mi hijo le tenia miedo a la oscuridad`
 
-Idea:
+Angulo:
 
-La IA no es solo usar ChatGPT o seguir tendencias. El valor esta en saber formular problemas, mejorar procesos y tomar mejores decisiones.
+La domotica empieza cuando resuelve un problema real, no cuando compras tecnologia por comprar.
+
+Idea central:
+
+Una necesidad familiar concreta puede ser la puerta de entrada a automatizar la casa.
 
 ## Episodio 2
 
-Titulo:
+Post base:
 
-`Automatizar no es reemplazar`
+`Lamparitas WiFi, interruptores o enchufes inteligentes: cual conviene y cuando`
 
-Idea:
+Angulo:
 
-Automatizar tareas repetitivas permite recuperar tiempo, pero requiere criterio para no romper procesos ni deshumanizar la experiencia.
+La primera decision importante: que conviene comprar segun el caso.
+
+Idea central:
+
+No todo se resuelve con lamparitas inteligentes. A veces conviene interruptor, a veces enchufe, a veces no tocar nada todavia.
 
 ## Episodio 3
 
-Titulo:
+Post base:
 
-`Herramientas de IA que realmente sirven para trabajar mejor`
+`Tiras LED, modo cine y mi primera automatizacion que me volo la cabeza`
 
-Idea:
+Angulo:
 
-Separar herramientas utiles de novedades pasajeras. Enfocar en escritura, investigacion, organizacion, analisis y automatizacion.
+El momento en que la automatizacion deja de ser comoda y empieza a sentirse magica.
+
+Idea central:
+
+Una escena bien pensada puede cambiar la experiencia cotidiana: luces, TV, ambiente y rutina.
 
 ## Episodio 4
 
-Titulo:
+Post base:
 
-`El futuro del trabajo para freelancers, devs y emprendedores`
+`Control remoto inteligente: como sume el aire acondicionado al sistema`
 
-Idea:
+Angulo:
 
-La tecnologia cambia la forma de producir valor. El diferencial no es solo usar herramientas, sino entender donde agregan criterio.
+Domotizar equipos viejos o no inteligentes usando infrarrojo.
+
+Idea central:
+
+Broadlink y controles IR pueden integrar dispositivos que no nacieron smart, pero hay que entender sus limites.
 
 ## Episodio 5
 
-Titulo:
+Post base:
 
-`Como crear contenido tech sin sonar como un manual`
+`El dia que descubri que estaba haciendo todo mal`
 
-Idea:
+Angulo:
 
-Comunicar tecnologia requiere ejemplos, contexto y opinion. La claridad es parte del producto.
+La casa inteligente puede funcionar y aun asi estar mal planteada.
+
+Idea central:
+
+Cuando todo depende de nubes, apps sueltas y parches, aparece la necesidad de ordenar el sistema.
 
 ## Episodio 6
 
-Titulo:
+Post base:
 
-`Errores comunes al implementar IA en un negocio chico`
+`La mini PC que cambio todo: Home Assistant instalado de verdad`
 
-Idea:
+Angulo:
 
-Comprar herramientas antes de entender procesos suele salir caro. Primero se define el problema, despues la tecnologia.
+El salto de jugar con domotica a tener una base seria.
+
+Idea central:
+
+Home Assistant en una mini PC permite centralizar, controlar localmente y construir algo mas estable.
 
 ## Episodio 7
 
-Titulo:
+Post base:
 
-`Que deberia aprender alguien que quiere entrar al mundo tech`
+`Automatizaciones en Home Assistant: frustraciones, Node-RED y el momento PS4 que lo cambio todo`
 
-Idea:
+Angulo:
 
-No todo empieza por programar. Hay fundamentos: pensamiento logico, producto, datos, automatizacion, comunicacion y aprendizaje continuo.
+Automatizar no es solo prender y apagar cosas: es entender estados, condiciones y flujo.
+
+Idea central:
+
+Node-RED puede ser el puente visual para entender automatizaciones complejas sin perderse tanto en YAML.
 
 ## Episodio 8
 
-Titulo:
+Post base:
 
-`La diferencia entre usar herramientas y pensar tecnologicamente`
+`DIY en serio: ESP32, WLED y cuando tu casa empieza a pensar sola`
 
-Idea:
+Angulo:
 
-Pensar tecnologicamente es detectar sistemas, flujos, restricciones y oportunidades de mejora.
+El paso DIY: sensores, tiras LED direccionables y automatizaciones mas personales.
 
-## Pendiente
+Idea central:
 
-Cuando haya acceso a titulos concretos del Substack, mapear cada post a un episodio:
+ESP32 y WLED abren una etapa mas flexible, donde la casa responde al contexto y no solo a comandos.
 
-- Link del post.
-- Titulo del episodio.
-- Angulo sonoro.
-- Hook.
-- Puntos principales.
-- CTA hacia Substack.
+## Episodios futuros posibles
+
+- Como pensar una arquitectura local-first en casa.
+- Acceso remoto a Home Assistant desde Argentina.
+- Que compraria hoy para empezar de cero.
+- Alexa vs Home Assistant: que rol deberia tener cada uno.
+- Tuya, Sonoff, Broadlink y el problema de depender de apps.
+- Seguridad basica para una casa conectada.
+- Backups, energia y continuidad: que pasa si se corta internet o luz.
+
+## CTA recurrente
+
+Lee el post completo y los detalles tecnicos en crissferro.tech:
+
+https://crissferrotech.substack.com/

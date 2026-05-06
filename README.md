@@ -1,24 +1,27 @@
-# Criss Ferro Tech Podcast
+# crissferro.tech Podcast
 
-Base de trabajo para convertir el contenido de `https://crissferrotech.substack.com/` en un podcast publicable en Spotify.
+Base de trabajo para convertir los posts de `https://crissferrotech.substack.com/` en episodios de podcast para Spotify.
 
-## Objetivo
+## Enfoque correcto
 
-Crear una serie de episodios derivados del Substack, con foco en tecnologia, inteligencia artificial, automatizacion, trabajo digital y aplicacion practica para profesionales, emprendedores y creadores.
+Este podcast arranca desde el contenido real de crissferro.tech:
+
+> Te ayudo a sacarle el jugo a la tecnologia desde Argentina. Home Assistant, domotica, tecnologia - todo explicado claro, practico y sin rodeos. Contenido tecnico para gente curiosa.
+
+La primera etapa no es un podcast generico sobre IA o tecnologia. Es una serie basada en los posts actuales del Substack: Home Assistant, domotica, automatizaciones, mini PC, Broadlink, Alexa, Node-RED, WLED, ESP32 y casos reales de uso en Argentina.
 
 ## Estructura
 
-- `historial/contexto.md`: contexto conversacional y decisiones tomadas.
+- `historial/contexto.md`: contexto conversacional, correcciones y decisiones tomadas.
+- `fuentes/substack-archivo.md`: inventario de posts publicos detectados en el Substack.
 - `estrategia-podcast.md`: concepto, audiencia, tono, nombre y formato.
-- `configuracion-spotify.md`: pasos para configurar el podcast en Spotify/Substack.
-- `calendario-editorial.md`: primeros episodios sugeridos.
-- `borradores/episodio-001.md`: primer borrador de episodio/post.
-- `assets/brief-portada.md`: guia para crear arte de portada.
-
-## Link base
-
-- Substack: https://crissferrotech.substack.com/
+- `calendario-editorial.md`: temporada inicial basada en los posts reales.
+- `configuracion-spotify.md`: pasos para configurar Substack/Spotify.
+- `borradores/trailer.md`: trailer del podcast.
+- `borradores/episodio-001.md`: episodio piloto basado en el primer post.
+- `assets/brief-portada.md`: guia para usar el logo y preparar portada.
+- `logo.jpg`: logo disponible para identidad visual.
 
 ## Estado actual
 
-Proyecto iniciado. Falta incorporar titulos/posts concretos del Substack para ajustar la grilla editorial con mas precision.
+Replanteado el proyecto para que el podcast siga el Substack real. Proximo paso: tomar cada post completo y convertirlo en guion final grabable.
